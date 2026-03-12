@@ -1,10 +1,6 @@
- 
-  return (
-    <Home 
-      config={myProjectConfig} 
-      lang={lang} 
-      onLangClick={handleLangToggle} 
-    />
-  );
-}
-```
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
