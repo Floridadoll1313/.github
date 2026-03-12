@@ -1,3 +1,4 @@
+src/pages/lore/sector1.jsx
 import React from "react";
 
 export default function Sector1() {
