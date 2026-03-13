@@ -64,3 +64,5 @@ const Arena = () => {
     </div>
   );
 };
+
+export default Arena;
