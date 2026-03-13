@@ -1,27 +1,43 @@
-import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
-function Home() {
-  return (
-    <div className="p-10 text-center">
-      <h1 className="text-5xl font-bold animate-glow-pulse">
-        Ocean Tide Drop
-      </h1>
-      <p className="mt-6 text-xl opacity-80">
-        React is rendering correctly. Your site is alive.
-      </p>
-    </div>
-  );
-}
+// Layout
+import Layout from "./components/Layout";
+
+// Pages
+import Home from "./pages/Home";
+import Island from "./pages/Island";
+import Challenges from "./pages/Challenges";
+import Progression from "./pages/Progression";
+import Community from "./pages/Community";
+import Members from "./pages/Members";
+import Blog from "./pages/Blog";
+import Free from "./pages/Free";
+import Founders from "./pages/Founders";
+import Campfire from "./pages/Campfire";
+import Arena from "./pages/Arena";
+import Dashboard from "./pages/Dashboard";
+import Ceremony from "./pages/Ceremony";
+import ThirdPartyTools from "./pages/ThirdPartyTools";
 
 export default function App() {
   return (
-    <BrowserRouter>
-      <div className="min-h-screen bg-black text-cyan-200 animate-glow-pulse">
-        <Routes>
-          <Route path="/" element={<Home />} />
-        </Routes>
-      </div>
-    </BrowserRouter>
+    <Layout>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/island" element={<Island />} />
+        <Route path="/challenges" element={<Challenges />} />
+        <Route path="/progression" element={<Progression />} />
+        <Route path="/community" element={<Community />} />
+        <Route path="/members" element={<Members />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/free" element={<Free />} />
+        <Route path="/founders" element={<Founders />} />
+        <Route path="/campfire" element={<Campfire />} />
+        <Route path="/arena" element={<Arena />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/ceremony" element={<Ceremony />} />
+        <Route path="/tools" element={<ThirdPartyTools />} />
+      </Routes>
+    </Layout>
   );
 }
