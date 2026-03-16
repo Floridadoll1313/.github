@@ -2,7 +2,7 @@
 Skip to content
 
     Floridadoll1313
-    my-cool-repo
+    lamplighter
 
 Repository navigation
 
@@ -14,7 +14,7 @@ Repository navigation
     Insights
     Settings
 
-my-cool-repo
+lamplighter
 Public template
 
 Floridadoll1313/my-cool-repo
