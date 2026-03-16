@@ -14,7 +14,7 @@ Repository navigation
     Insights
     Settings
 
-lamplighter
+AI-Surfer-Survivor
 Public template
 
 Floridadoll1313/my-cool-repo
