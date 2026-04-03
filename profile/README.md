@@ -2,7 +2,7 @@
 Skip to content
 
     Floridadol313
-	AI-Surfer-Survivor
+	AI-Surfer
 
 Repository navigation
 
@@ -14,7 +14,7 @@ Repository navigation
     Insights
     Settings
 
-AI-Surfer-Survivor
+OTDAISS/
 Public template
 
 Floridadoll1313/my-cool-repo
