@@ -2,7 +2,7 @@
 Skip to content
 
     Floridadol313
-	AI-Surfer
+	AI-Surfer-Marketing-Agency
 
 Repository navigation
 
@@ -17,7 +17,7 @@ Repository navigation
 OTDAISS/
 Public template
 
-Floridadoll1313/my-cool-repo
+Floridadoll1313/AI-Surfer-Marketing-Agency
 Name	Last commit message
 	Last commit date
 Floridadoll1313
