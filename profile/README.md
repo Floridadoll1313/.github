@@ -1,7 +1,83 @@
+Floridadoll1313# 🌊 Ocean Tide Drop AI SURFER
 
-Skip to content
+Welcome to Ocean Tide Drop AI SURFER!
 
-    Floridadoll1313
+A modern AI platform that helps businesses ride the next wave of automation through intelligent AI Agents, business tools, and workflow automation.
+
+## Features
+
+- 🤖 AI Agent Builder
+- 🌊 Ocean-themed Dashboard
+- 👥 Member Portal
+- 🔐 Secure Authentication
+- 💳 Subscription Plans
+- 📈 Business Automation
+- ⚡ React + Vite + TypeScript
+- 🗄️ Supabase Backend
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Supabase
+- GitHub Actions
+- SonarCloud
+
+## Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/Floridadoll1313/Ocean-Tide-Drop-AI-SURFER-2.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development
+
+```bash
+npm run dev
+```
+
+Build production
+
+```bash
+npm run build
+```
+
+## Project Structure
+
+```
+src/
+components/
+pages/
+hooks/
+lib/
+public/
+```
+
+## Quality
+
+This project uses:
+
+- GitHub Actions
+- SonarCloud
+- TypeScript
+- ESLint
+
+## License
+
+MIT
+
+---
+
+Made with 🌊 by Ocean Tide Drop AI SURFER
 	ocean Tide Drop ai surfer 2
 
 Repository navigation
